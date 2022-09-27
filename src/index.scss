@@ -1,0 +1,34 @@
+@import 'style/custom.scss';
+
+* {
+  color: $secondary;
+}
+
+a {
+  font-size: 0.75rem;
+  color: $primary;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: bolder;
+  text-align: center;
+}
+
+h1,
+h5 {
+  margin-bottom: 2rem;
+}
+
+h5 {
+  padding: .2rem 2.6rem;
+}
+
+.container {
+  max-width: 500px;
+  padding: 0;
+}
+
+
+
