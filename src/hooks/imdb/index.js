@@ -24,8 +24,7 @@ export default function IMDB() {
 
   return (
     <>
-      <h2>IMBD</h2>
-      <button onClick={hadleClick}>get</button>
+
     </>
   );
 }
