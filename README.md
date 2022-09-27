@@ -1,9 +1,9 @@
 ## Available Scripts
 
 ### Run with Docker
-Create .env from .env.example
-`docker build -t {name}.`
-`docker run --env-file ./.env -dp 3000:3000 {name}`
+Create .env from .env.example \
+`docker build -t {name}.` \
+`docker run --env-file ./.env -dp 3000:3000 {name}` \
 
 In the project directory, you can run:
 
